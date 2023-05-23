@@ -5,6 +5,7 @@ package studentlistwed;
  * Class that creates an Array of Students and prints each student's name.
  * @author dancye, 2023
  * after that modified by Prabhjot Singh Thiara after spending so long time on what password is 
+ * and this is prepration for first inclasss activity for software design and fundamentals.
  */
 public class StudentList 
 {
